@@ -1,5 +1,4 @@
 extern  crate rand;
-use core::num;
 use std::{cmp::Ordering, io};
 use rand::Rng;
 

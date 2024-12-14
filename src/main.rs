@@ -3,7 +3,7 @@ use std::{cmp::Ordering, io};
 use rand::Rng;
 
 fn main() {
-    println!("Guess The Number!");
+    println!("Guess The Number! HOHOHO");
     let secret_number = rand::thread_rng().gen_range(1..10);
     println!("The Secret Number is : {}",secret_number);  //You can hide this message
     loop {
